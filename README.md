@@ -18,8 +18,6 @@
 
 ---
 
-<br>
-
 **LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" width="180" />
@@ -37,7 +35,5 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github&theme=dark" width="270" />
 
 <br><br>
-
----
 
 </div>
