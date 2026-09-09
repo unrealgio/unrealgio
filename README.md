@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, i'm Giovanni Felipe
+# I'm Giovanni 👋
 
 ### Full Stack Web Developer
 
@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Stack
 
 <br>
 
@@ -28,21 +28,15 @@
 
 <br>
 
-**Frontend**
+**Framework & Runtime**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" width="220" />
-
-<br>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,sequelize,mssql&theme=dark" width="330" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&theme=dark" width="330" />
 
 <br>
 
-**Tools**
+**Infra, DB and Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" width="275" />
+<img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,supabase,mssql,sequelize,git,github,vscode,postman,npm&theme=dark" width="550" />
 
 <br><br>
 
