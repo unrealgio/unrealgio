@@ -2,15 +2,15 @@
 
 # I'm Giovanni 👋
 
-### Web Developer
+### Full Stack Web Developer
 
 <br>
 
 <a href="mailto:giovannifelipedev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/✉%20Email-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/giovanni-felipe-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br>
@@ -24,13 +24,13 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" />
 
 <br>
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,sequelize&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,sequelize,mssql&theme=dark" />
 
 <br>
 
@@ -42,26 +42,5 @@
 <br>
 
 ---
-
-### About me
-
-Web Developer focused on creating modern interfaces  
-and functional applications.
-
-I enjoy combining **development and design**  
-to create better digital experiences.
-
-<br>
-
----
-
-### 🚀 Featured Projects
-
-**CIS** · **A3UNP** · **Hasbnb**
-
-<br>
-<br>
-
-*Always learning, always building.*
 
 </div>
