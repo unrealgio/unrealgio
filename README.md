@@ -7,11 +7,11 @@
 <br>
 
 <a href="mailto:giovannifelipedev@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="32" />
+  <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/giovanni-felipe-dev/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="32" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
@@ -24,19 +24,61 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" width="220" />
-
 <br>
+
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="42" />
+
+<br><br>
 
 **Framework & Runtime**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&theme=dark" width="330" />
-
 <br>
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="42" />
+
+<br><br>
 
 **Infra, DB and Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,postgres,mongodb,supabase,mssql,sequelize,git,github,vscode,postman,npm&theme=dark" width="550" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mssql&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sequelize&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="42" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=npm&theme=dark" width="42" />
 
 <br><br>
 
