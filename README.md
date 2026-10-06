@@ -1,4 +1,4 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=giovannifelipedev&label=Visits&color=0A66C2&style=for-the-badge" alt="visit count" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=giovannifelipedev&label=Visitors&color=0A66C2&style=for-the-badge" alt="visit count" /></p>
 <div align="center">
 
 # Hi, i'm Giovanni 👋
