@@ -3,7 +3,7 @@
 
 # Hi, i'm Giovanni 👋
 
-### Full Stack Web Developer
+### Full Stack Developer
 
 <br>
 
