@@ -1,7 +1,7 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=unrealgio&label=Visits&color=0A66C2&style=for-the-badge" alt="visit count" /></p>
 <div align="center">
 
-# Hi, i'm Giovanni 👋
+# Hi, I'm Giovanni 👋
 
 ### Full Stack Developer
 
